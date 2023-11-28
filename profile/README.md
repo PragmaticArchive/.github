@@ -11,14 +11,14 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-** CHOI JUNHO **
+- **CHOI JUNHO**
 
-** KIM JIWON **
+- **KIM JIWON**
 
-** NAM HEESU **
+- **NAM HEESU**
 
-** LEE HYUNJIN **
+- **LEE HYUNJIN**
 
-** HWANG JINHA **
+- **HWANG JINHA**
 
 [JIRA](https://pragmaticarchive.atlassian.net/jira/software/projects/PA/boards/1)
