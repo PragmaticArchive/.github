@@ -1,15 +1,6 @@
 # Make Pragmatic
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![KakaoTalk_20240117_234817247](https://github.com/PragmaticArchive/.github/assets/39554558/911bd197-cb96-4dc2-b295-e89b274c9889)
+![KakaoTalk_20240117_234817247_01](https://github.com/PragmaticArchive/.github/assets/39554558/f7d5b85c-70ec-4cff-8528-29f9a30d37d4)
 
 - **CHOI JUNHO**
 
@@ -21,4 +12,3 @@
 
 - **HWANG JINHA**
 
-[JIRA](https://pragmaticarchive.atlassian.net/jira/software/projects/PA/boards/1)
